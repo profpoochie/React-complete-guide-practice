@@ -11,8 +11,9 @@ myName = 'Manu';
 console.log(myName);*/
 
 // Error
-const myName = 'Max';
+//const myName = 'Max';
+let myName = "Max";
 console.log(myName);
 
-myName = 'Manu';
+myName = "Manu";
 console.log(myName);
