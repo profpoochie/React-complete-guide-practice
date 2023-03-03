@@ -128,3 +128,4 @@ dist
 02-js-refresher/package.json
 *.xml
 *.iml
+.DS_Store
